@@ -8,7 +8,7 @@ function firstChar(text) {
     return '';
 }
 
-let text = " Rosa Parks"
+let text = prompt();
 // Do not change the code below
 //Uncomment the following line to show the prompt popup
 //const text = prompt("Enter text:");
