@@ -1,6 +1,6 @@
 function firstChar(text) {
   // your code here
-	for (let char of str) {
+	for (let char of text) {
         if (char !== ' ') {
             return char;
         }
@@ -8,6 +8,7 @@ function firstChar(text) {
     return '';
 }
 
+let text = ""
 // Do not change the code below
 //Uncomment the following line to show the prompt popup
 //const text = prompt("Enter text:");
